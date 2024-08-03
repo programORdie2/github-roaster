@@ -3,7 +3,7 @@ This is a cool project that roasts GitHub users by fetching their public profile
 
 ## Demo
 [⭐ Check it out here!](https://github-roaster.programordie.workers.dev/)
-[![demo](demo.gif)](https://github-roaster.programordie.workers.dev/)
+[!<img src="demo.gif" alt="demo" width="400px">](https://github-roaster.programordie.workers.dev/)
 
 ## Run locally
 If you want to try this on your own machine, you can run this on your localhost:
