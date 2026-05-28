@@ -14,7 +14,7 @@ export default {
 			return new Response(JSON.stringify({ error: 'Method not allowed' }), { status: 405 });
 		}
 
-		const username = request.url.split('/').pop() || '';
+		const username = request.url.split('/').pop().trim() || '';
 
 		const headers = {
 			'Content-Type': 'application/json',
